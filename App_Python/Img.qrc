@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="Light_img">
+    <file>den0.png</file>
+    <file>den1.gif</file>
+  </qresource>
+  <qresource prefix="AirPur_img">
+    <file>kk0.png</file>
+    <file>kk1.gif</file>
+  </qresource>
+  <qresource prefix="AirCon_img">
+    <file>dh0.png</file>
+    <file>dh1.png</file>
+  </qresource>
+</RCC>
