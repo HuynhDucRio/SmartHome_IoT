@@ -21,9 +21,9 @@ This project is an **IoT-based smart home system** that allows users to remotely
 - **Communication Protocols**: HTTP, MQTT.
 
 ## 📷 Screenshots
-![Dashboard Preview](![image](https://github.com/user-attachments/assets/107af6da-0144-45ee-ba7e-758eb5b15be2)
+![Dashboard Preview](![image](https://github.com/user-attachments/assets/107af6da-0144-45ee-ba7e-758eb5b15be2))
 
-![Desktop App Preview](![image](https://github.com/user-attachments/assets/7d2f4abf-c317-4db4-9764-098b87b654da)
+![Desktop App Preview](![image](https://github.com/user-attachments/assets/7d2f4abf-c317-4db4-9764-098b87b654da))
 
 ## 🚀 Getting Started
 ### 📌 Hardware Requirements
